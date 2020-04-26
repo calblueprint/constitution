@@ -51,8 +51,8 @@ We as Blueprint members strive to remain humble, accept our imperfections, and b
 
 ### 1. Executive Committee
 
-1. The Executive Committee shall be composed of a President, Internal Vice President, External Vice President, Vice President of Projects, Vice President of Technology, and Vice President of Design chosen at the end of the previous semester by election from the general membership.
-2. Consent of the Executive Committee is when two-thirds of its members agree. The quorum for decision making is five.
+1. The Executive Committee shall be composed of President(s), Internal Vice President, External Vice President, Vice President of Projects, Vice President of Technology, and Vice President of Design chosen at the end of the previous semester by election from the general membership.
+2. Consent of the Executive Committee is when two-thirds<sup>1</sup> of its members agree. The quorum for decision making is two-thirds<sup>1</sup> of Executive Committee members.
 3. When vacancies happen in the Executive Committee, the Executive Committee is responsible to fill such vacancies. When vacancies happen in project groups, the Executive Committee is responsible to fill such vacancies.
 4. Each member of the Executive Committee shall be responsible for carrying out any duties apart from those below as consented upon by the Executive Committee.
 5. A member of the Executive Committee may only be appointed to the same position more than twice if they are elected unopposed.
@@ -60,14 +60,14 @@ We as Blueprint members strive to remain humble, accept our imperfections, and b
 
 ### 2. President
 
-1. This role may be assumed by two members as a co-presidency. 
-1. The President(s) shall serve as the chief representative(s) of Blueprint and its Executive Committee; they shall serve as the main curator(s) and protector(s) of the mission and vision of Blueprint; they shall monitor the health and well-being of Blueprint, and shall take care that the decisions of the Executive Committee be faithfully executed.
-2. The President(s) shall serve as the main facilitator(s) in any meeting for Blueprint.
-3. The President(s) shall have the power to convene the Executive Committee for meetings.
-4. The President(s) shall have the power to delegate tasks in order to accomplish goals set forth by the Executive Committee.
-5. The President(s) shall at the beginning of the semester give to the general membership information of the state and the direction of Blueprint, and every general membership meeting give to the general membership updates on the state and direction.
-6. The President(s) shall, with the advice and consent of the Executive Committee, commission all of the advisors of Blueprint.
-7. A member of the Executive Committee shall assume the duties of the President(s) in the event of the resignation, recall, or temporary or permanent disability of the President(s) to perform his/her duties, until such time as a replacement is selected or elected. The order of succession is the order in which the offices are stated in the constitution: Internal Vice President, External Vice President, Vice President of Projects, Vice President of Technology.
+1. This role may be assumed by two members as a co-presidency.
+2. The President(s) shall serve as the chief representative(s) of Blueprint and its Executive Committee; they shall serve as the main curator(s) and protector(s) of the mission and vision of Blueprint; they shall monitor the health and well-being of Blueprint, and shall take care that the decisions of the Executive Committee be faithfully executed.
+3. The President(s) shall serve as the main facilitator(s) in any meeting for Blueprint.
+4. The President(s) shall have the power to convene the Executive Committee for meetings.
+5. The President(s) shall have the power to delegate tasks in order to accomplish goals set forth by the Executive Committee.
+6. The President(s) shall at the beginning of the semester give to the general membership information of the state and the direction of Blueprint, and every general membership meeting give to the general membership updates on the state and direction.
+7. The President(s) shall, with the advice and consent of the Executive Committee, commission all of the advisors of Blueprint.
+8. A member of the Executive Committee shall assume the duties of the President(s) in the event of the resignation, recall, or temporary or permanent disability of the President(s) to perform his/her duties, until such time as a replacement is selected or elected. The order of succession is the order in which the offices are stated in the constitution: Internal Vice President, External Vice President, Vice President of Projects, Vice President of Technology.
 
 ### 3. Internal Vice President
 
@@ -107,7 +107,7 @@ We as Blueprint members strive to remain humble, accept our imperfections, and b
 
 1. Every semester, an election must occur to determine the Executive Committee for the following term.
 2. Prior to elections, the Executive Committee shall survey the general membership for nominations. A nomination is only invalidated if the nominee refuses the nomination.
-3. During elections, eligible general members will vote. Eligibility will be determined by the Executive Committee. Elections shall occur during general meeting only with a full quorum of the eligible voting membership.
+3. During elections, eligible general members will vote. Eligibility will be determined by the Executive Committee. Elections shall occur during general meeting only with a quorum of two-thirds<sup>1</sup> the eligible voting membership.
 4. The Executive Committee shall determine the procedures of nomination and campaign in the bylaws.
 
 ## V. MEETINGS
@@ -116,25 +116,25 @@ We as Blueprint members strive to remain humble, accept our imperfections, and b
 
 1. The times, places, and manner of all meetings shall be prescribed by the Executive Committee.
 2. Notification methods of all meetings shall be determined by the Executive Committee at the beginning of the semester.
-3. The general membership shall meet every other week. A quorum is two-thirds of the general membership. Decisions requiring input from the general membership shall be made during the general membership meeting.
+3. The general membership shall meet every other week. A quorum is two-thirds<sup>1</sup> of the general membership. Decisions requiring input from the general membership shall be made during the general membership meeting.
 
 ### 2. Executive Committee Meetings
 
-1. The Executive Committee shall assemble at least once every week. A quorum for meetings is three Executive Committee members.
+1. The Executive Committee shall assemble at least once every week. A quorum for meetings is two-thirds<sup>1</sup> of Executive Committee members.
 
 ### 3. Special Emergency Meetings
 
 1. Special emergency meetings shall be called on by the President of Blueprint for Executive Committee meetings.
-2. Special emergency meetings shall, with three-fifths approval of the Executive Committee, be called on by the President of Blueprint for general membership meetings.
+2. Special emergency meetings shall, with two-thirds<sup>1</sup> approval of the Executive Committee, be called on by the President of Blueprint for general membership meetings.
 
 ## VI. CONSTITUTIONAL AMENDMENTS
 
-1. The Executive Committee, whenever two-thirds of its members shall deem it necessary, shall propose Amendments to this Constitution, or, on the application of two-thirds of the total membership shall call a convention for proposing Amendments, which, in either case, shall be valid to all intents and purposes, as part of this Constitution, when ratified by three-fourths of the total membership.
+1. The Executive Committee, whenever two-thirds<sup>1</sup> of its members shall deem it necessary, shall propose Amendments to this Constitution, or, on the application of two-thirds<sup>1</sup> of the total membership shall call a convention for proposing Amendments, which, in either case, shall be valid to all intents and purposes, as part of this Constitution, when ratified by three-fourths<sup>1</sup> of the total membership.
 2. All amendments, additions or deletions to this document must be filed with the LEAD Center in 432 Eshleman Hall.
 
 ## VII. DISSOLUTION
 
-1. The Executive Committee, whenever all of its members shall deem it necessary, shall propose the dissolution of this organization and Constitution. The dissolution shall be valid to all intents and purposes when ratified by all members of the Executive Committee and three-fourths of the non-executive membership.
+1. The Executive Committee, whenever all of its members shall deem it necessary, shall propose the dissolution of this organization and Constitution. The dissolution shall be valid to all intents and purposes when ratified by all members of the Executive Committee and three-fourths<sup>1</sup> of the non-executive membership.
 2. If the organization is ASUC or GA Sponsored, all unspent ASUC funds shall return to the ASUC; all Graduate Assembly funds shall return to the Graduate Assembly. If the organization is defunct for five (5) or more years, any privately obtained funds (including any funds left in miscellaneous accounts) shall be donated to the following nonprofit organization: Watsi.
 
 In the event that the designated nonprofit organization no longer exists or has ceased to be a nonprofit, then the unspent funds shall be donated to the ASUC.
@@ -153,10 +153,14 @@ All members of Blueprint shall be bound by contract and oath to support this Con
 
 1. All procedures and operations specified by the Constitution may not be changed except by constitutional amendment. All procedures and operations not specified by the Constitution that the Executive Committee deems necessary for current and future members to abide by may be determined by the Executive Committee through the bylaws.
 2. The bylaws must be made readily available to the general membership through permanent and accessible documentation. This documentation should record both the current and past bylaws.
-3. A two-thirds majority of the Executive Committee is necessary to enact a bylaw.
-4. A two-thirds majority of the Executive Committee is necessary to overturn a bylaw.
+3. A two-thirds<sup>1</sup> majority of the Executive Committee is necessary to enact a bylaw.
+4. A two-thirds<sup>1</sup> majority of the Executive Committee is necessary to overturn a bylaw.
 5. Any enacted or overturned bylaw must be presented at the soonest general meeting. Changes made to the bylaws must be reflected in the documentation within 24 hours.
 
 ### 4. Ratification
 
 The Ratification of three fourths majority of Blueprint members shall be sufficient for the establishment of this Constitution.
+
+---
+
+<sup>1</sup> The resulting number shall be rounded to the nearest integer.
