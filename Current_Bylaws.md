@@ -44,7 +44,6 @@ Last Amended: April 25, 2020
 5. There will a form where anyone can pass on additional thoughts, concerns, or questions that they think want the current Executive Committee to pass on to the candidate in their 1-on-1s.
 6. Eligible voters will vote between all the candidates, No Confidence, and Abstain. Any Abstain votes are counted in the number of total votes to reach quorum, but are not counted towards or against any candidate.
 
-
 ## II. MEMBERSHIP
 
 ### 1. Inactive Members
