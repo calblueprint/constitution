@@ -44,6 +44,13 @@ Last Amended: April 25, 2020
 5. There will a form where anyone can pass on additional thoughts, concerns, or questions that they think want the current Executive Committee to pass on to the candidate in their 1-on-1s.
 6. Eligible voters will vote between all the candidates, No Confidence, and Abstain. Any Abstain votes are counted in the number of total votes to reach quorum, but are not counted towards or against any candidate.
 
+### 4. Special Circumstances
+
+1. Because of the outstanding circumstances of Fall 2020, Blueprint will allow the election of a co-presidency to navigate the uncharted territory that this situation presents and help better serve E-team/the club. This will be a temporary change for the semester, but will also allow the possibility and framework for an amendment if the club sees fit going forward.
+2. If the copresidency is uncontested and receives a majority vote of no-confidence, one of the co-presidents may opt to re-run as a solo candidate. 
+3. The duties of president are to be shared by both copresidents as they see fit.
+
+
 ## II. MEMBERSHIP
 
 ### 1. Inactive Members
