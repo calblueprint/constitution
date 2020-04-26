@@ -68,10 +68,10 @@ Last Amended: April 25, 2020
 
 1. Due to the outstanding circumstances of Fall 2020, the Executive Committee will allow the election of Co-Presidents for Fall 2020 to navigate the uncharted territory that this situation presents and help better serve Fall 2020's Executive Commmittee and the general membership.
 
-2. If the co-presidency is uncontested and receives a majority vote of no-confidence, one of the co-presidents may opt to re-run as a solo candidate.
+2. If the Co-Presidency is uncontested and receives a majority vote of No Confidence, one of the Co-Presidents may opt to re-run as a solo candidate.
 
 ### 2. The Role
 
 1. This will be a temporary change for the semester of Fall 2020 but will also allow the possibility and framework for an amendment if the club sees fit going forward.
 
-2. The duties of president are to be shared by both Co-Presidents as they see fit.
+2. The duties of The President are to be shared by both Co-Presidents as they see fit.
