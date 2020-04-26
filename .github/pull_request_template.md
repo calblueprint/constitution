@@ -1,4 +1,4 @@
-# [Amendment/Bylaw] \#
+# [Amendment/Bylaw/Feature] \#
 
 Drafted: 
 
@@ -10,7 +10,7 @@ Ratified: YYYY.MM.DD
 
 ## Voting Record
 
-    Votes: \# Total Membership, \# Yes, \# No, \# Abstain
+    Votes: # Total Membership, # Yes, # No, # Abstain
 
 ## Text
 
@@ -18,7 +18,7 @@ Ratified: YYYY.MM.DD
 
 *[Blurb about change]*
 
-*Other checklist (remove once completed):*
+Other checklist (remove once completed):
 
 - [ ] Add voting members for review or attach picture of voting record
   - If a member of e-team created the PR, add the person to assignees signifying an automatic vote
