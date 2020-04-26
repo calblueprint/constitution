@@ -60,13 +60,14 @@ We as Blueprint members strive to remain humble, accept our imperfections, and b
 
 ### 2. President
 
-1. The President shall serve as the chief representative of Blueprint and its Executive Committee; they shall serve as the main curator and protector of the mission and vision of Blueprint; they shall monitor the health and well-being of Blueprint, and shall take care that the decisions of the Executive Committee be faithfully executed.
-2. The President shall serve as the main facilitator in any meeting for Blueprint.
-3. The President shall have the power to convene the Executive Committee for meetings.
-4. The President shall have the power to delegate tasks in order to accomplish goals set forth by the Executive Committee.
-5. The President shall at the beginning of the semester give to the general membership information of the state and the direction of Blueprint, and every general membership meeting give to the general membership updates on the state and direction.
-6. The President shall, with the advice and consent of the Executive Committee, commission all of the advisors of Blueprint.
-7. A member of the Executive Committee shall assume the duties of the President in the event of the resignation, recall, or temporary or permanent disability of the President to perform his/her duties, until such time as a replacement is selected or elected. The order of succession is the order in which the offices are stated in the constitution: Internal Vice President, External Vice President, Vice President of Projects, Vice President of Technology.
+1. This role may be assumed by two members as a co-presidency. 
+1. The President(s) shall serve as the chief representative(s) of Blueprint and its Executive Committee; they shall serve as the main curator(s) and protector(s) of the mission and vision of Blueprint; they shall monitor the health and well-being of Blueprint, and shall take care that the decisions of the Executive Committee be faithfully executed.
+2. The President(s) shall serve as the main facilitator(s) in any meeting for Blueprint.
+3. The President(s) shall have the power to convene the Executive Committee for meetings.
+4. The President(s) shall have the power to delegate tasks in order to accomplish goals set forth by the Executive Committee.
+5. The President(s) shall at the beginning of the semester give to the general membership information of the state and the direction of Blueprint, and every general membership meeting give to the general membership updates on the state and direction.
+6. The President(s) shall, with the advice and consent of the Executive Committee, commission all of the advisors of Blueprint.
+7. A member of the Executive Committee shall assume the duties of the President(s) in the event of the resignation, recall, or temporary or permanent disability of the President(s) to perform his/her duties, until such time as a replacement is selected or elected. The order of succession is the order in which the offices are stated in the constitution: Internal Vice President, External Vice President, Vice President of Projects, Vice President of Technology.
 
 ### 3. Internal Vice President
 
