@@ -18,6 +18,7 @@ Last Amended: April 25, 2020
 2. Eligible members may be nominated and run for multiple positions, but they are bound to the first role they win in election.
 3. A nominee must run for a position unless they withdraw their nomination before a date and time set by the Executive Committee.
 4. Nominations outside the nomination period may be added at the discretion of the Executive Committee with the consent of the nominee.
+5. Members may not submit a nomination for a co-presidency, unless they are one of the nominated co-presidents. 
 
 ### 2. Election Rules
 
@@ -25,6 +26,7 @@ Last Amended: April 25, 2020
 2. Members who are graduating or intend to become permanently inactive (i.e. they do not intend to be active in Blueprint for the rest of their college career) cannot vote during their final semester. However, if they intend to return to Blueprint after a period of inactivity, then they are eligible to vote.
 3. In the case that there are more than 2 candidates running for a single position, the Executive Committee will implement instant runoff voting. A candidate is selected if they receive the majority of votes in their favor (> 50 %). If not, the candidate with the least votes will be eliminated and the votes that went to the eliminated candidate will be allocated to the next highest candidate chosen by the voter. This will continue until a candidate receives a majority of the votes.
 4. In the case that 2 candidates or less run for a position, a candidate will be elected if they receive a majority of the votes. If no candidate receives a majority vote, the candidate(s) shall leave the room to allow for group discussion that lasts 5 to 10 minutes. After this group discussion, the group shall recast votes. This will repeat until a candidate receives the majority.
+5. Two members may run for the role of presidency under a co-presidency bid. Candidates can only be part of one co-presidency bid. For the sake of election procedures, co-presidency bids are treated like a singular candidate.
 
 ### 3. Election Procedures
 
@@ -34,6 +36,7 @@ Last Amended: April 25, 2020
 2. After their presentation, the candidate will leave the room, and the attendees will discuss any concerns about the candidate they may have for up to 5 minutes. 
 3. There will be a form where anyone can pass on additional thoughts, concerns, or questions that they want the current Executive Committee to pass on to the candidate in their 1-on-1s.
 4. Eligible voters will vote between the options Yes, No Confidence, and Abstain. Any Abstain votes are counted in the number of total votes to reach quorum, but are not counted towards or against any candidate.
+5. If a co-presidency bid receives a majority vote of No Confidence, one of the presidents may elect to run on their own. There must be another vote following the same procedure.
 
 #### b. Contested Positions
 
