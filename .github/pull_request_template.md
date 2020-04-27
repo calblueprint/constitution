@@ -27,4 +27,4 @@ Other checklist (remove once completed):
 - [ ] Add the correct label to the PR
 - [ ] If change was for a bylaw or amendment, make sure to create a new release after merging into master according to the format specified in the [README](https://github.com/calblueprint/constitution#releases)
 
-CC: @eteam
+CC: @calblueprint/eteam
