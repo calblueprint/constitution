@@ -1,10 +1,10 @@
 # [Amendment/Bylaw] \#
 
-Drafted: 
+Drafted: Name(s) ( @username(s) )
 
 Proposed: YYYY.MM.DD
 
-Proposed by: [Executive Team/Club Convention]
+Proposed by: [Executive Team ( @calblueprint/eteam )/Club Convention]
 
 Ratified: YYYY.MM.DD
 
