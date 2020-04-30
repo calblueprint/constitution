@@ -66,7 +66,7 @@ We as Blueprint members strive to remain humble, accept our imperfections, and b
 4. The President shall have the power to delegate tasks in order to accomplish goals set forth by the Executive Committee.
 5. The President shall at the beginning of the semester give to the general membership information of the state and the direction of Blueprint, and every general membership meeting give to the general membership updates on the state and direction.
 6. The President shall, with the advice and consent of the Executive Committee, commission all of the advisors of Blueprint.
-7. A member of the Executive Committee shall assume the duties of the President in the event of the resignation, recall, or temporary or permanent disability of the President to perform his/her duties, until such time as a replacement is selected or elected. The order of succession is the order in which the offices are stated in the constitution: Internal Vice President, External Vice President, Vice President of Projects, Vice President of Technology.
+7. A member of the Executive Committee shall assume the duties of the President in the event of the resignation, recall, or temporary or permanent disability of the President to perform his/her duties, until such time as a replacement is selected or elected. The order of succession is the order in which the offices are stated in the constitution: Internal Vice President, External Vice President, Vice President of Projects, Vice President of Technology, Vice President of Design.
 
 ### 3. Internal Vice President
 
