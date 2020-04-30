@@ -4,7 +4,7 @@ Drafted:
 
 Proposed: YYYY.MM.DD
 
-Proposed by: 
+Proposed by: [Executive Team/Club Convention]
 
 Ratified: YYYY.MM.DD
 
