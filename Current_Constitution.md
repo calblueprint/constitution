@@ -52,7 +52,7 @@ We as Blueprint members strive to remain humble, accept our imperfections, and b
 ### 1. Executive Committee
 
 1. The Executive Committee shall be composed of a President, Internal Vice President, External Vice President, Vice President of Projects, Vice President of Technology, and Vice President of Design chosen at the end of the previous semester by election from the general membership.
-2. Consent of the Executive Committee is when two-thirds of its members agree. The quorum for decision making is five.
+2. Consent of the Executive Committee is when two-thirds of its members agree. The quorum for decision making is two-thirds of Executive Committee members.
 3. When vacancies happen in the Executive Committee, the Executive Committee is responsible to fill such vacancies. When vacancies happen in project groups, the Executive Committee is responsible to fill such vacancies.
 4. Each member of the Executive Committee shall be responsible for carrying out any duties apart from those below as consented upon by the Executive Committee.
 5. A member of the Executive Committee may only be appointed to the same position more than twice if they are elected unopposed.
@@ -66,7 +66,7 @@ We as Blueprint members strive to remain humble, accept our imperfections, and b
 4. The President shall have the power to delegate tasks in order to accomplish goals set forth by the Executive Committee.
 5. The President shall at the beginning of the semester give to the general membership information of the state and the direction of Blueprint, and every general membership meeting give to the general membership updates on the state and direction.
 6. The President shall, with the advice and consent of the Executive Committee, commission all of the advisors of Blueprint.
-7. A member of the Executive Committee shall assume the duties of the President in the event of the resignation, recall, or temporary or permanent disability of the President to perform his/her duties, until such time as a replacement is selected or elected. The order of succession is the order in which the offices are stated in the constitution: Internal Vice President, External Vice President, Vice President of Projects, Vice President of Technology.
+7. A member of the Executive Committee shall assume the duties of the President in the event of the resignation, recall, or temporary or permanent disability of the President to perform his/her duties, until such time as a replacement is selected or elected. The order of succession is the order in which the offices are stated in the constitution: Internal Vice President, External Vice President, Vice President of Projects, Vice President of Technology, Vice President of Design.
 
 ### 3. Internal Vice President
 
@@ -106,7 +106,7 @@ We as Blueprint members strive to remain humble, accept our imperfections, and b
 
 1. Every semester, an election must occur to determine the Executive Committee for the following term.
 2. Prior to elections, the Executive Committee shall survey the general membership for nominations. A nomination is only invalidated if the nominee refuses the nomination.
-3. During elections, eligible general members will vote. Eligibility will be determined by the Executive Committee. Elections shall occur during general meeting only with a full quorum of the eligible voting membership.
+3. During elections, eligible general members will vote. Eligibility will be determined by the Executive Committee. Elections shall occur during general meeting only with a quorum of two-thirds the eligible voting membership.
 4. The Executive Committee shall determine the procedures of nomination and campaign in the bylaws.
 
 ## V. MEETINGS
@@ -119,12 +119,12 @@ We as Blueprint members strive to remain humble, accept our imperfections, and b
 
 ### 2. Executive Committee Meetings
 
-1. The Executive Committee shall assemble at least once every week. A quorum for meetings is three Executive Committee members.
+1. The Executive Committee shall assemble at least once every week. A quorum for meetings is two-thirds of Executive Committee members.
 
 ### 3. Special Emergency Meetings
 
 1. Special emergency meetings shall be called on by the President of Blueprint for Executive Committee meetings.
-2. Special emergency meetings shall, with three-fifths approval of the Executive Committee, be called on by the President of Blueprint for general membership meetings.
+2. Special emergency meetings shall, with two-thirds approval of the Executive Committee, be called on by the President of Blueprint for general membership meetings.
 
 ## VI. CONSTITUTIONAL AMENDMENTS
 
