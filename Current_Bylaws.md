@@ -2,7 +2,7 @@
 
 Ratified: April 6, 2017
 
-Last Amended: April 25, 2020
+Last Amended: November 30, 2020
 
 ## I. ELECTIONS
 
