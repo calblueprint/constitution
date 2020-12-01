@@ -44,6 +44,21 @@ Last Amended: April 25, 2020
 5. There will a form where anyone can pass on additional thoughts, concerns, or questions that they think want the current Executive Committee to pass on to the candidate in their 1-on-1s.
 6. Eligible voters will vote between all the candidates, No Confidence, and Abstain. Any Abstain votes are counted in the number of total votes to reach quorum, but are not counted towards or against any candidate.
 
+### 4. Adjustments to Election 
+
+1. The Executive Team has the ability to make minor adjustments to the election rules and procedures detailed above in the interest of assuring that elections can be run within a reasonable timeframe.
+2. A minor adjustment does not require an official amendment to the bylaws. 
+3. A minor adjustment must be agreed upon by the Executive Team. Each member of the Executive Team must have ample opportunity to voice their concerns. 
+4. Any member of the Executive Team may request that a change be subject to the formal bylaw amendment process.
+5. Any adjustments must be communicated to all candidates and members with at least one day advanced notice of elections.
+
+#### Definitions
+
+1. A major (or non-minor) adjustment may include, but is not limited to, restrictions or changes that affect quorum or the way that voting is conducted.
+2. A minor adjustment may include, but is not limited to, restrictions or changes to timing, speeches, or discussion periods. 
+3. Any member of the Executive Team may dispute the categorization of a proposed adjustment, subjecting the change to the traditional bylaw amendment process.
+
+
 ## II. MEMBERSHIP
 
 ### 1. Inactive Members
