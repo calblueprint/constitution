@@ -2,7 +2,7 @@
 
 Ratified: April 6, 2017
 
-Last Amended: November 30, 2020
+Last Amended: March 5, 2021
 
 ## I. ELECTIONS
 
@@ -58,7 +58,6 @@ Last Amended: November 30, 2020
 2. A minor adjustment may include, but is not limited to, restrictions or changes to timing, speeches, or discussion periods. 
 3. Any member of the Executive Team may dispute the categorization of a proposed adjustment, subjecting the change to the traditional bylaw amendment process.
 
-
 ## II. MEMBERSHIP
 
 ### 1. Inactive Members
@@ -90,3 +89,7 @@ Last Amended: November 30, 2020
 1. This will be a temporary change for the semester of Fall 2020 but will also allow the possibility and framework for an amendment if the club sees fit going forward.
 
 2. The duties of The President are to be shared by both Co-Presidents as they see fit.
+
+## IV. ASUC Sponsorship
+
+1. This organization hereby wishes to seek ASUC sponsorship. This organization adopts and incorporates by reference Schedule A of ASUC Bylaw 2201, and the same as may be amended from time by time, completely and fully as part of this constitution and its bylaws. This organization cannot amend this clause unless and until the ASUC has certified that this organization has ceased to be ASUC-sponsored, all ASUC property has been returned to the ASUC, access to all ASUC resources and facilities has been relinquished, and any debts, liabilities, or other responsibilities to the ASUC have been resolved. This organization will continue to be bound by any provisions specified in Schedule A for actions it took while this clause was in effect, even if this clause is amended.
