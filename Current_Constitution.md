@@ -51,7 +51,7 @@ We as Blueprint members strive to remain humble, accept our imperfections, and b
 
 ### 1. Executive Committee
 
-1. The Executive Committee shall be composed of a President, Internal Vice President, External Vice President, Vice President of Projects, Vice President of Technology, and Vice President of Design chosen at the end of the previous semester by election from the general membership.
+1. The Executive Committee shall be composed of a President, Internal Vice President, External Vice President, Vice President of Projects, Vice President of Technology, Vice President of Design, Vice President of Operations chosen at the end of the previous semester by election from the general membership.
 2. Consent of the Executive Committee is when two-thirds of its members agree. The quorum for decision making is two-thirds of Executive Committee members.
 3. When vacancies happen in the Executive Committee, the Executive Committee is responsible to fill such vacancies. When vacancies happen in project groups, the Executive Committee is responsible to fill such vacancies.
 4. Each member of the Executive Committee shall be responsible for carrying out any duties apart from those below as consented upon by the Executive Committee.
@@ -66,14 +66,13 @@ We as Blueprint members strive to remain humble, accept our imperfections, and b
 4. The President shall have the power to delegate tasks in order to accomplish goals set forth by the Executive Committee.
 5. The President shall at the beginning of the semester give to the general membership information of the state and the direction of Blueprint, and every general membership meeting give to the general membership updates on the state and direction.
 6. The President shall, with the advice and consent of the Executive Committee, commission all of the advisors of Blueprint.
-7. A member of the Executive Committee shall assume the duties of the President in the event of the resignation, recall, or temporary or permanent disability of the President to perform his/her duties, until such time as a replacement is selected or elected. The order of succession is the order in which the offices are stated in the constitution: Internal Vice President, External Vice President, Vice President of Projects, Vice President of Technology, Vice President of Design.
+7. A member of the Executive Committee shall assume the duties of the President in the event of the resignation, recall, or temporary or permanent disability of the President to perform their duties, until such time as a replacement is selected or elected. The order of succession is the order in which the offices are stated in the constitution: Internal Vice President, External Vice President, Vice President of Projects, Vice President of Technology, Vice President of Design, Vice President of Operations.
 
 ### 3. Internal Vice President
 
 1. The Internal Vice President shall serve as the director and manager of social and professional activities that are open exclusively to Blueprint membership and its alumni.
-2. The Internal Vice President shall be responsible for obtaining facilities for meetings and activities of the Executive Committee.
-3. The Internal Vice President shall be responsible for management of the budget, distributions of funds, and fundraising.
-4. The Internal Vice President shall, within the fourth week of the semester, direct a meeting of the Executive Committee to propose and discuss a budget for the semester. The budget must gain consent of the Executive Committee to be placed in effect. The Internal Vice President is responsible for making sure that the budget is followed and not exceeded.
+2. The Internal Vice President shall promote a safe and inclusive environment within Blueprint.
+3. The Internal Vice President is responsible for creating strategies for advancing and educating members about diversity, equity, and inclusion within Blueprint.
 
 ### 4. External Vice President
 
@@ -102,7 +101,14 @@ We as Blueprint members strive to remain humble, accept our imperfections, and b
 2. The Vice President of Design is the principal advisor and resource of design for project groups. 
 3. The Vice President of Design shall, with the advice and consent of the Executive Committee, determine the designer application process by the second week of the semester.
 
-### 8. Elections
+### 8. Vice President of Operations
+
+1. The Vice President of Operations is responsible for obtaining facilities for meetings and activities of the Executive Committee and Blueprint as a whole.
+2. The Vice President of Operations is responsible for management of the budget, distributions of funds, and fundraising.
+3. The Vice President of Operations shall, in collaboration with the outgoing Vice President of Operations, conduct a financial audit of the previous semester's budget and expenses prior to creating a new budget.
+4. The Vice President of Operations shall, within the fourth week of the semester, direct a meeting of the Executive Committee to propose and discuss a budget for the semester. The budget must gain consent of the Executive Committee to be placed in effect. The Vice President of Operations is responsible for making sure that the budget is followed and not exceeded.
+
+### 9. Elections
 
 1. Every semester, an election must occur to determine the Executive Committee for the following term.
 2. Prior to elections, the Executive Committee shall survey the general membership for nominations. A nomination is only invalidated if the nominee refuses the nomination.
@@ -129,7 +135,7 @@ We as Blueprint members strive to remain humble, accept our imperfections, and b
 ## VI. CONSTITUTIONAL AMENDMENTS
 
 1. The Executive Committee, whenever two-thirds of its members shall deem it necessary, shall propose Amendments to this Constitution, or, on the application of two-thirds of the total membership shall call a convention for proposing Amendments, which, in either case, shall be valid to all intents and purposes, as part of this Constitution, when ratified by three-fourths of the total membership.
-2. All amendments, additions or deletions to this document must be filed with the LEAD Center in 432 Eshleman Hall.
+2. All amendments, additions or deletions to this document must be filed with the LEAD Center at lead@berkeley.edu, or LEAD Center at 432 Eshleman Hall.
 
 ## VII. DISSOLUTION
 
