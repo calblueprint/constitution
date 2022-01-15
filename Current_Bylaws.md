@@ -2,7 +2,7 @@
 
 Ratified: April 6, 2017
 
-Last Amended: January 14, 2021
+Last Amended: January 14, 2022
 
 ## I. ELECTIONS
 
@@ -79,15 +79,11 @@ Last Amended: January 14, 2021
 ### 4. Probation
 
 1. Probation becomes relevant if a member would like to remain active, but at least one of the following was true in the most recent semester:
-
-- Their lack of participation or performance negatively affected team morale or dynamics.
-- They consistently did not complete work assignments throughout the semester and failed to communicate why this was the case.
-
+   - Their lack of participation or performance negatively affected team morale or dynamics.
+   - They consistently did not complete work assignments throughout the semester and failed to communicate why this was the case.
 2. For a member to be put on probation, both of the following must occur:
-
-- This member’s team lead must present evidence of at least one of the two above conditions to E-Team.
-- E-Team must unanimously agree that probation is the appropriate and fair course of action for this member.
-
+   - This member’s team lead must present evidence of at least one of the two above conditions to E-Team.
+   - E-Team must unanimously agree that probation is the appropriate and fair course of action for this member.
 3. If a member is put on probation, they must be inactive during the upcoming semester. They may reapply the following semester, where they must complete a shortened application for any of the role(s) they wish to apply for.
 
 ## III. Temporary Adoption of Co-Presidency for Fall 2020
