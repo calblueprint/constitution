@@ -93,3 +93,14 @@ Last Amended: March 5, 2021
 ## IV. ASUC Sponsorship
 
 1. This organization hereby wishes to seek ASUC sponsorship. This organization adopts and incorporates by reference Schedule A of ASUC Bylaw 2201, and the same as may be amended from time by time, completely and fully as part of this constitution and its bylaws. This organization cannot amend this clause unless and until the ASUC has certified that this organization has ceased to be ASUC-sponsored, all ASUC property has been returned to the ASUC, access to all ASUC resources and facilities has been relinquished, and any debts, liabilities, or other responsibilities to the ASUC have been resolved. This organization will continue to be bound by any provisions specified in Schedule A for actions it took while this clause was in effect, even if this clause is amended.
+
+## V. Temporary Adoption of Asynchronous Election Procedures for VPO
+
+1. Due to the atypical timeline after the passing of the amendment for the VP of Operations role, the Executive Committee needs to have more flexibility in the typical election procedures to elect a member to this role, since this election needs to occur because the semester officially starts. 
+2. Election procedures will be changed slightly to allow for asynchronous, remote, and online voting, while maintaining the general procedure and intent of a regular election for an uncontested position.
+    1. **Nomination collection:** Nominations are collected in the same way as during a regular election, through a form and with the same timeline periods.
+    2. **Speech/Presentation Video:** Candidate will record a video presentation (3min) of their platform; it will be public for the duration that the voting form is open.
+    3. **Group Discussion (24h)**: During this time members will freely discuss with others in the election channel (the candidate is not present in this channel). 
+    4. **Form for additional thoughts, concerns, or questions:** The form for feedback will be released along with the voting form, and responses will be passed back to the candidate after the election.
+    5. **Voting form:** The form will be open for 48h to allow for time zone differences and the fact that not everybody is online during the summer. The video and forms will all be sent at once in the election channel.
+3. This is a temporary change for Summer 2022 for the election of a VP of Operations, but similar procedures could be reinstated if a similar situation occurs in the future going forward.
