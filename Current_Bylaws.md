@@ -92,4 +92,51 @@ Last Amended: March 5, 2021
 
 ## IV. ASUC Sponsorship
 
-1. This organization hereby wishes to seek ASUC sponsorship. This organization adopts and incorporates by reference Schedule A of ASUC Bylaw 2201, and the same as may be amended from time by time, completely and fully as part of this constitution and its bylaws. This organization cannot amend this clause unless and until the ASUC has certified that this organization has ceased to be ASUC-sponsored, all ASUC property has been returned to the ASUC, access to all ASUC resources and facilities has been relinquished, and any debts, liabilities, or other responsibilities to the ASUC have been resolved. This organization will continue to be bound by any provisions specified in Schedule A for actions it took while this clause was in effect, even if this clause is amended.
+This organization hereby wishes to seek ASUC sponsorship. This organization adopts and incorporates by reference Schedule A of ASUC Bylaw 2201, and the same as may be amended from time by time, completely and fully as part of this constitution and its bylaws. This organization cannot amend this clause unless and until the ASUC has certified that this organization has ceased to be ASUC-sponsored, all ASUC property has been returned to the ASUC, access to all ASUC resources and facilities has been relinquished, and any debts, liabilities, or other responsibilities to the ASUC have been resolved. This organization will continue to be bound by any provisions specified in Schedule A for actions it took while this clause was in effect, even if this clause is amended.
+
+### Schedule A 
+
+1 This organization is organized and operated exclusively for nonprofit purposes. The property of this organization is irrevocably dedicated to the purposes specified in its primary governing document and no part of the net income or assets of this organization shall ever inure to the benefit of any director, officer, or member thereof or to the benefit of any private person. 
+
+2 This organization recognizes that current or past ASUC sponsorship or funding does not imply a guarantee of continued or future sponsorship or funding and that status as a university registered student organization does not guarantee status as an ASUC-sponsored student organization or ASUC funding.
+
+3 The ultimate constitutional, budgetary, and policy making authority of this organization shall be vested entirely and exclusively in ASUC members, at least a majority of whom shall be undergraduate students. Only ASUC members may hold officer positions in this organization. This section shall not be interpreted to prevent non-ASUC members from holding advisory positions in the organization.
+
+4 This organization is not a unit of the ASUC or of the University of California. Unless otherwise specified in its primary governing document, this organization shall be considered an unincorporated association organized under the laws of California. 
+
+5 All funds, facilities, and resources allocated or provided to this organization by the ASUC (including the Graduate Assembly) during the term of its sponsorship shall remain the property of the ASUC at all times. If the organization ceases to be sponsored or ceases to exist, all ASUC property and unspent funds shall be immediately returned to the ASUC (including the Graduate Assembly).
+
+5.1 Any property [## other long term property / subscriptions] purchased by this organization using funds provided to it by the ASUC (including the Graduate Assembly) shall be the property of the ASUC. The ASUC shall retain ownership proportional to its contribution in any property purchased partially with ASUC funds.
+
+6 This organization may use funds, facilities, and resources allocated or provided to it by the ASUC (including the Graduate Assembly) only for purposes which promote the general welfare of the student body and which are not inconsistent with the meaning of United States Internal Revenue Code section 501(c)(3). 
+
+6.1 Funds, facilities, and resources allocated or provided to this organization by the ASUC (including the Graduate Assembly) shall not be used to participate or intervene in any political campaign (including the publishing or distribution of statements) on behalf of any candidate for public office or for activities which primarily consist of carrying on propaganda, or otherwise attempting to influence legislation.
+
+7 This organization shall follow all regulations found in the ASUC Constitution and Bylaws during the term of ASUC sponsorship.
+
+8 All disputes involving this organization may be resolved by mandatory binding arbitration through the ASUC Judicial Council. 
+
+8.1 The ASUC Judicial Council shall operate in accordance with the ASUC Constitution and the Judicial Council Rules of Procedure. 
+
+8.2 The ASUC Judicial Council shall have the power to order any remedy it sees fit. Mandatory binding arbitration may be initiated against the organization by:
+
+8.2.1 Any member of this organization
+
+8.2.2 Any member of the ASUC
+
+8.2.3 Another ASUC-sponsored organization, the ASUC, or any unit of the ASUC
+
+8.2.4 A unit of the University of California, with the consent of the ASUC Judicial Council
+
+8.2.5 Any other person or entity, with the consent of this organization and the ASUC Judicial Council.
+
+9 This organization shall defend, indemnify and hold the ASUC, its officers, officials, employees and volunteers harmless from any and all claims, injuries, damages, losses or suits including attorney fees, arising out of or resulting from the acts, errors or omissions of this organization in relation to its relationship with the ASUC, except for injuries and damages caused by the sole negligence of the ASUC.
+
+10 All officers and authorized representatives of this organization are individually and jointly responsible for the financial obligations of the organization to the ASUC, incurred by this organization during the tenure of the officer or authorized representative. This shall include any damage or defacement of ASUC property.
+
+11 All books and records of this organization shall be subject to inspection by the ASUC Judicial Council, ASUC Chief Financial Office, ASUC Chief Legal Officer, and ASUC professional legal counsel. These individuals may make copies and extracts of such records.
+
+12 Upon the dissolution or winding up of this organization, its assets remaining after payment, or provision for payment, of all debts and liabilities shall be distributed to the ASUC, unless the primary governing document of the organization has specified some other nonprofit fund, foundation or corporation, which is organized and operated exclusively for charitable or educational purposes, to receive such funds. In the event that the designated organization no longer exists or has ceased to be a non-profit organization, the distribution shall be made to the ASUC.
+
+14 This organization shall be considered dissolved if it is inactive and (a) fails to register as a student organization with the University for more than five full academic years or (b) it ceases to have any members. The ASUC shall have the authority to wind-up the affairs of this organization in such case, but shall not assume any responsibility for any debts or liabilities of this organization.
+
