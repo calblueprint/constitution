@@ -2,7 +2,7 @@
 
 Ratified: April 6, 2017
 
-Last Amended: March 5, 2021
+Last Amended: January 14, 2022
 
 ## I. ELECTIONS
 
@@ -31,7 +31,7 @@ Last Amended: March 5, 2021
 #### a. Uncontested Positions
 
 1. Candidate will enter the room and give a 3 minute speech.
-2. After their presentation, the candidate will leave the room, and the attendees will discuss any concerns about the candidate they may have for up to 5 minutes. 
+2. After their presentation, the candidate will leave the room, and the attendees will discuss any concerns about the candidate they may have for up to 5 minutes.
 3. There will be a form where anyone can pass on additional thoughts, concerns, or questions that they want the current Executive Committee to pass on to the candidate in their 1-on-1s.
 4. Eligible voters will vote between the options Yes, No Confidence, and Abstain. Any Abstain votes are counted in the number of total votes to reach quorum, but are not counted towards or against any candidate.
 
@@ -40,22 +40,22 @@ Last Amended: March 5, 2021
 1. All candidates for the role will leave the room at the start of the election for that role.
 2. Candidates will enter the room one at a time and give a 5 minute presentation.
 3. After all presentations, there will be a group Q&A session directed toward all candidates that lasts Number of Candidates \* 3 minutes.
-4. After the group Q&A session, the candidates will leave the room, allowing for a group discussion that lasts for 5 to 10 minutes. The members should engage in a discussion focused on a candidate's fitness for the role rather than specifics of their platforms. 
+4. After the group Q&A session, the candidates will leave the room, allowing for a group discussion that lasts for 5 to 10 minutes. The members should engage in a discussion focused on a candidate's fitness for the role rather than specifics of their platforms.
 5. There will a form where anyone can pass on additional thoughts, concerns, or questions that they think want the current Executive Committee to pass on to the candidate in their 1-on-1s.
 6. Eligible voters will vote between all the candidates, No Confidence, and Abstain. Any Abstain votes are counted in the number of total votes to reach quorum, but are not counted towards or against any candidate.
 
-### 4. Adjustments to Election 
+### 4. Adjustments to Election
 
 1. The Executive Team has the ability to make minor adjustments to the election rules and procedures detailed above in the interest of assuring that elections can be run within a reasonable timeframe.
-2. A minor adjustment does not require an official amendment to the bylaws. 
-3. A minor adjustment must be agreed upon by the Executive Team. Each member of the Executive Team must have ample opportunity to voice their concerns. 
+2. A minor adjustment does not require an official amendment to the bylaws.
+3. A minor adjustment must be agreed upon by the Executive Team. Each member of the Executive Team must have ample opportunity to voice their concerns.
 4. Any member of the Executive Team may request that a change be subject to the formal bylaw amendment process.
 5. Any adjustments must be communicated to all candidates and members with at least one day advanced notice of elections.
 
 #### Definitions
 
 1. A major (or non-minor) adjustment may include, but is not limited to, restrictions or changes that affect quorum or the way that voting is conducted.
-2. A minor adjustment may include, but is not limited to, restrictions or changes to timing, speeches, or discussion periods. 
+2. A minor adjustment may include, but is not limited to, restrictions or changes to timing, speeches, or discussion periods.
 3. Any member of the Executive Team may dispute the categorization of a proposed adjustment, subjecting the change to the traditional bylaw amendment process.
 
 ## II. MEMBERSHIP
@@ -75,6 +75,16 @@ Last Amended: March 5, 2021
 
 1. At the end of each semester, any member may choose to be in a complementary role for Blueprint. This includes working under The President, Internal Vice President, VP of Projects, or VP of Technology in a new role with objectives planned out by The Executive Committee member and the general member.
 2. Complementary role members will present their work at general meetings like any other team.
+
+### 4. Probation
+
+1. Probation becomes relevant if a member would like to remain active, but at least one of the following was true in the most recent semester:
+   - Their lack of participation or performance negatively affected team morale or dynamics.
+   - They consistently did not complete work assignments throughout the semester and failed to communicate why this was the case.
+2. For a member to be put on probation, both of the following must occur:
+   - This member’s team lead must present evidence of at least one of the two above conditions to E-Team.
+   - E-Team must unanimously agree that probation is the appropriate and fair course of action for this member.
+3. If a member is put on probation, they must be inactive during the upcoming semester. They may reapply the following semester, where they must complete a shortened application for any of the role(s) they wish to apply for.
 
 ## III. Temporary Adoption of Co-Presidency for Fall 2020
 
