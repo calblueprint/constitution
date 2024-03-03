@@ -129,7 +129,7 @@ We as Blueprint members strive to remain humble, accept our imperfections, and b
 ## VI. CONSTITUTIONAL AMENDMENTS
 
 1. The Executive Committee, whenever two-thirds of its members shall deem it necessary, shall propose Amendments to this Constitution, or, on the application of two-thirds of the total membership shall call a convention for proposing Amendments, which, in either case, shall be valid to all intents and purposes, as part of this Constitution, when ratified by three-fourths of the total membership.
-2. All amendments, additions or deletions to this document must be filed with the LEAD Center in 432 Eshleman Hall.
+2. All amendments, additions or deletions to this document must be filed with the OASIS Center at oasis.center@berkeley.edu, or OASIS Center at 312 Eshleman Hall.
 
 ## VII. DISSOLUTION
 
