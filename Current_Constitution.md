@@ -46,6 +46,7 @@ We as Blueprint members strive to remain humble, accept our imperfections, and b
 2. We will not haze according to California State Law. We will not restrict membership based upon race, color, national origin, religion, sex, gender identity, pregnancy (including pregnancy, childbirth, and medical conditions related to pregnancy or childbirth), physical or mental disability, medical condition (cancer related or genetic characteristics), ancestry, marital status, age, sexual orientation, citizenship, or service in the uniformed services (including membership, application for membership, performance of service, application for service, or obligation for service in the uniformed services.)
 3. The Executive Committee determines the terms of membership and enacts them through the bylaws.
 4. The Executive Committee has the ability to punish its members for disorderly behavior, and, with a unanimous vote, expel a member.
+5. This organization agrees to adhere to the guidelines described in the [RSO Sexual Violence and Sexual Harassment (SVSH) Prevention and Response Policy](https://docs.google.com/document/d/1ex7Won3HvV1lCDYtMSUIkHWaRrl-u0Biu8dMjPdKtIs/edit) which aligns with the [University of California’s Sexual Violence and Sexual Harassment Policy](https://policy.ucop.edu/doc/4000385/SVSH). This RSO agrees to send at least one representative to participate in a Path to Care training annually. RSO will also follow the SVSH prevention and response guidelines if and when SVSH harm occurs within the organization.
 
 ## IV. OFFICERS & ELECTIONS
 
