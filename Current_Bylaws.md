@@ -2,7 +2,7 @@
 
 Ratified: April 6, 2017
 
-Last Amended: March 5, 2021
+Last Amended: March 4, 2024
 
 ## I. ELECTIONS
 
