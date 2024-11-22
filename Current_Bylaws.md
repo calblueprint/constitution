@@ -45,7 +45,7 @@ Last Amended: March 4, 2024
 4. After the group Q&A session, the candidates will leave the room, allowing for a group discussion that lasts for 5 to 10 minutes. The members should engage in a discussion focused on a candidate's fitness for the role rather than specifics of their platforms. 
 5. There will a form where anyone can pass on additional thoughts, concerns, or questions that they think want the current Executive Committee to pass on to the candidate in their 1-on-1s.
 6. Eligible voters will vote between all the candidates, No Confidence, and Abstain. Any Abstain votes are counted in the number of total votes to reach quorum, but are not counted towards or against any candidate.
-7. If a majority of votes goes to No Confidnece, the position is up to the discretion of the Executive Committee.
+7. If a majority of votes goes to No Confidence, the position is up to the discretion of the Executive Committee.
 
 ### 4. Adjustments to Election 
 
