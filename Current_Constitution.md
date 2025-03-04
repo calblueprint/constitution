@@ -135,7 +135,7 @@ We as Blueprint members strive to remain humble, accept our imperfections, and b
 ## VII. DISSOLUTION
 
 1. The Executive Committee, whenever all of its members shall deem it necessary, shall propose the dissolution of this organization and Constitution. The dissolution shall be valid to all intents and purposes when ratified by all members of the Executive Committee and three-fourths of the non-executive membership.
-2. If the organization is ASUC or GA Sponsored, all unspent ASUC funds shall return to the ASUC; all Graduate Assembly funds shall return to the Graduate Assembly. If the organization is defunct for five (5) or more years, any privately obtained funds (including any funds left in miscellaneous accounts) shall be donated to the following nonprofit organization: Watsi.
+2. If the organization is ASUC or GA Sponsored, all unspent ASUC funds shall return to the ASUC; all Graduate Assembly funds shall return to the Graduate Assembly. If the organization is defunct for five (5) or more years, any privately obtained funds (including any funds left in miscellaneous accounts) shall be donated to the following nonprofit organization: Watsi. In the event that the designated nonprofit organization no longer exists or has ceased to be a nonprofit, then the unspent funds shall be donated to the ASUC.
 3. This organization hereby wishes to seek ASUC sponsorship. This organization adopts and incorporates by reference Schedule A of ASUC Bylaw 2201,  and the same as may be amended from time by time, completely and fully as part of this [constitution, charter, articles, etc]. This organization cannot amend this clause unless and until the ASUC has certified that this organization has ceased to be ASUC-sponsored, all ASUC property has been returned to the ASUC, access to all ASUC resources and facilities has been relinquished, and any debts, liabilities, or other responsibilities to the ASUC have been resolved. This organization will continue to be bound by any provisions specified in Schedule A for actions it took while this clause was in effect, even if this clause is amended.
 
 Schedule A 
@@ -183,8 +183,6 @@ Schedule A
 12 Upon the dissolution or winding up of this organization, its assets remaining after payment, or provision for payment, of all debts and liabilities shall be distributed to the ASUC, unless the primary governing document of the organization has specified some other nonprofit fund, foundation or corporation, which is organized and operated exclusively for charitable or educational purposes, to receive such funds. In the event that the designated organization no longer exists or has ceased to be a non-profit organization, the distribution shall be made to the ASUC.
 
 13 This organization shall be considered dissolved if it is inactive and (a) fails to register as a student organization with the University for more than five full academic years or (b) it ceases to have any members. The ASUC shall have the authority to wind-up the affairs of this organization in such case, but shall not assume any responsibility for any debts or liabilities of this organization.
-
-In the event that the designated nonprofit organization no longer exists or has ceased to be a nonprofit, then the unspent funds shall be donated to the ASUC.
 
 ## VIII. SUPREMACY & OATHS
 
