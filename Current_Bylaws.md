@@ -22,7 +22,7 @@ Last Amended: March 4, 2024
 ### 2. Election Rules
 
 1. Order of elections for each role is the president, then the constitutional order of contested positions, then the constitutional order of non-contested positions.
-2. Members who are graduating or intend to become permanently inactive (i.e. they do not intend to be active in Blueprint for the rest of their college career) cannot vote during their final semester. However, if they intend to return to Blueprint after a period of inactivity, then they are eligible to vote.
+2. Members who intend to become permanently inactive (i.e. they do not intend to be active in Blueprint for the rest of their college career) or graduating members who are currently inactive cannot vote during their final semester. However, if they intend to return to Blueprint after a period of inactivity, then they are eligible to vote.
 3. In the case that there are more than 2 candidates running for a single position, the Executive Committee will implement instant runoff voting. A candidate is selected if they receive the majority of votes in their favor (> 50 %). If not, the candidate with the least votes will be eliminated and the votes that went to the eliminated candidate will be allocated to the next highest candidate chosen by the voter. This will continue until a candidate receives a majority of the votes.
 4. In the case that 2 candidates or less run for a position, a candidate will be elected if they receive a majority of the votes. If no candidate receives a majority vote, the candidate(s) shall leave the room to allow for group discussion that lasts 5 to 10 minutes. After this group discussion, the group shall recast votes. This will repeat until a candidate receives the majority.
 
@@ -65,7 +65,7 @@ Last Amended: March 4, 2024
 
 ### 1. Inactive Members
 
-1. Members may choose to become inactive at the end of each semester. They may choose to become an active member again at the end of their inactive semester, but this does not guarantee their original role is still available to them (i.e. Director of Operations member goes inactive and Blueprint recruits a new Director of Operations).
+1. Members may choose to become inactive at the end of each semester. They may choose to become an active member again at the end of their inactive semester, but this does not guarantee their original role is still available to them (i.e. Vice President of Operations member goes inactive and Blueprint recruits a new Vice President of Operations).
 2. Members may not choose to become inactive during their first semester in Blueprint unless there are extenuating circumstances. The Executive Committee will be charged with hearing extenuating circumstances. If any member of The Executive Committee agrees with the extenuating circumstance, then the member may go inactive. If The Executive Committee unanimously disagrees with the extenuating circumstance, then the member will be asked to reapply for their respective role during the following semester.
 
 ### 2. Transferring Teams
