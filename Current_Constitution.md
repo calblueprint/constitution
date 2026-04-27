@@ -52,7 +52,7 @@ We as Blueprint members strive to remain humble, accept our imperfections, and b
 
 ### 1. Executive Committee
 
-1. The Executive Committee shall be composed of a President, Internal Vice President, External Vice President, Vice President of Projects, Vice President of Technology, and Vice President of Design chosen at the end of the previous semester by election from the general membership.
+1. The Executive Committee shall be composed of a President, Internal Vice President, External Vice President, Vice President of Projects, Vice President of Technology, Vice President of Design, and Vice President of Operations chosen at the end of the previous semester by election from the general membership.
 2. Consent of the Executive Committee is when two-thirds of its members agree. The quorum for decision making is two-thirds of Executive Committee members.
 3. When vacancies happen in the Executive Committee, the Executive Committee is responsible to fill such vacancies. When vacancies happen in project groups, the Executive Committee is responsible to fill such vacancies.
 4. Each member of the Executive Committee shall be responsible for carrying out any duties apart from those below as consented upon by the Executive Committee.
@@ -103,7 +103,13 @@ We as Blueprint members strive to remain humble, accept our imperfections, and b
 2. The Vice President of Design is the principal advisor and resource of design for project groups. 
 3. The Vice President of Design shall, with the advice and consent of the Executive Committee, determine the designer application process by the second week of the semester.
 
-### 8. Elections
+### 8. Vice President of Operations
+1. The Vice President of Operations shall be responsible for the financial and logistical operations of Blueprint.
+2. The Vice President of Operations shall oversee all financial activities of Blueprint, including maintaining accurate records of all funds and transactions, processing reimbursements and payments, managing organizational accounts, and ensuring compliance with University and external funding policies.
+3. The Vice President of Operations shall be responsible for securing funding for Blueprint, including applying for grants from the ASUC and other external organizations, and managing sponsorship funds in coordination with the External Vice President where applicable.
+4. The Vice President of Operations shall be responsible for logistical coordination of Blueprint activities, including reserving rooms and facilities, coordinating event logistics, and supporting the planning and execution of events in collaboration with the Internal Vice President and External Vice President.
+
+### 9. Elections
 
 1. Every semester, an election must occur to determine the Executive Committee for the following term.
 2. Prior to elections, the Executive Committee shall survey the general membership for nominations. A nomination is only invalidated if the nominee refuses the nomination.
