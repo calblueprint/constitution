@@ -2,6 +2,8 @@
 
 The documents [`Current_Constitution.md`](Current_Constitution.md) and [`Current_Bylaws.md`](Current_Bylaws.md) shall be the source of truth for Blueprint's Constitution and Bylaws. Should there be any discrepancies between the markdown and PDF versions, the markdown version should be referenced.
 
+Exec Team can edit constiution for OASIS use [`here`](https://docs.google.com/document/d/1HSXqxkzVDyqnt9Iq9ZMDv7aNDThrxWSk7USJ-6zdB5E/edit?tab=t.0#heading=h.k7gwj4y3vvpk).
+
 ## Pull Requests
 
 There are three versions of pull requests that can be created.
